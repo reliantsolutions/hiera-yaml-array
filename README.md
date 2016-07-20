@@ -1,6 +1,6 @@
 # Hiera YAML Array
 
-This is a fork of hiera YAML backend wth support for array variable interpolations.
+This is a fork of hiera YAML backend with support for array variable interpolations.
 
 ## Array interpolations
 
